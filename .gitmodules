@@ -1,0 +1,45 @@
+[submodule "adafruit-itsy-bitsy-rp2040"]
+	path = adafruit-itsy-bitsy-rp2040
+	url = https://github.com/9names/adafruit-itsy-bitsy-rp2040.git
+[submodule "adafruit-kb2040"]
+	path = adafruit-kb2040
+	url = https://github.com/9names/adafruit-kb2040.git
+[submodule "adafruit-macropad"]
+	path = adafruit-macropad
+	url = https://github.com/9names/adafruit-macropad.git
+[submodule "adafruit-qt-py-rp2040"]
+	path = adafruit-qt-py-rp2040
+	url = https://github.com/9names/adafruit-qt-py-rp2040.git
+[submodule "adafruit-trinkey-qt2040"]
+	path = adafruit-trinkey-qt2040
+	url = https://github.com/9names/adafruit-trinkey-qt2040.git
+[submodule "arduino_nano_connect"]
+	path = arduino_nano_connect
+	url = https://github.com/9names/arduino_nano_connect.git
+[submodule "pimoroni-pico-explorer"]
+	path = pimoroni-pico-explorer
+	url = https://github.com/9names/pimoroni-pico-explorer.git
+[submodule "pimoroni-pico-lipo-16mb"]
+	path = pimoroni-pico-lipo-16mb
+	url = https://github.com/9names/pimoroni-pico-lipo-16mb.git
+[submodule "pimoroni-plasma-2040"]
+	path = pimoroni-plasma-2040
+	url = https://github.com/9names/pimoroni-plasma-2040.git
+[submodule "pimoroni-tiny2040"]
+	path = pimoroni-tiny2040
+	url = https://github.com/9names/pimoroni-tiny2040.git
+[submodule "solderparty-rp2040-stamp"]
+	path = solderparty-rp2040-stamp
+	url = https://github.com/9names/solderparty-rp2040-stamp.git
+[submodule "sparkfun-pro-micro-rp2040"]
+	path = sparkfun-pro-micro-rp2040
+	url = https://github.com/9names/sparkfun-pro-micro-rp2040.git
+[submodule "sparkfun-thing-plus-rp2040"]
+	path = sparkfun-thing-plus-rp2040
+	url = https://github.com/9names/sparkfun-thing-plus-rp2040.git
+[submodule "rp-pico"]
+	path = rp-pico
+	url = https://github.com/9names/rp-pico.git
+[submodule "adafruit-feather-rp2040"]
+	path = adafruit-feather-rp2040
+	url = https://github.com/9names/adafruit-feather-rp2040.git
